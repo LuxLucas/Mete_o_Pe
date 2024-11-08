@@ -106,7 +106,7 @@
 **Efeito:** Até o fim de seu próximo turno, quando você chegar ou passar numa casa com outro jogador, ele avança 1 casa. 
 **Descrição:** "Segure-se em minha mola de necavtz para obter impulso", sugeriu Rafael, ativando a força elástica de sua engenhoca.
 
-**Nome:** 
+**Nome:** Colegas perspicazes
 **Tipo:** Apoio
 **Efeito:** - Escolha 1 entre:
     * Outro jogador alvo recebe +1 em teste de desafio até o final de seu próximo turno.
