@@ -13,17 +13,6 @@
 - **Apoio:** beneficia outro jogador
 - **Contra-tempo:** prejudica o jogador
 
----
-
-Apoio:
-- Outro jogador alvo recebe vantagem em testes de desafio até o final de seu próximo turno.
-
-- Até o fim de seu próximo turno, quando você chegar ou passar numa casa com outro jogador, ele avança 1 casa.  
-- Escolha 1 entre:
-    * Outro jogador alvo recebe +1 em teste de desafio até o final de seu próximo turno.
-    * Ative o efeito de outra carta de apoio usada nessa rodada e exile-a.
----
-
 ## Efeitos
 
 ### Cartas de vantagem
@@ -104,3 +93,22 @@ Apoio:
 	* 2 ou 3 - O jogador perde seu próximo turno;
 	* 4 ou > - Retorna 2 casas;
 **Descrição:** O chão se cobre com um óleo misterioso, anulando quase todo o atrito, tornando cada passo um desafio.
+
+### Cartas de apoio
+
+**Nome:** Peso virtual
+**Tipo:** Apoio
+**Efeito:** Outro jogador alvo recebe vantagem em testes de desafio até o final de seu próximo turno.
+**Descrição:** "Vejo câmaras de anti-gravidade. Sei que é perigoso, mas usem seus sistemas de peso virtual!" brandou Tehani.
+
+**Nome:** Mola amiga
+**Tipo:** Apoio
+**Efeito:** Até o fim de seu próximo turno, quando você chegar ou passar numa casa com outro jogador, ele avança 1 casa. 
+**Descrição:** "Segure-se em minha mola de necavtz para obter impulso", sugeriu Rafael, ativando a força elástica de sua engenhoca.
+
+**Nome:** 
+**Tipo:** Apoio
+**Efeito:** - Escolha 1 entre:
+    * Outro jogador alvo recebe +1 em teste de desafio até o final de seu próximo turno.
+    * Ative o efeito de outra carta de apoio usada nessa rodada e exile-a.
+**Descrição:** "Alguém viu as luvas magnéticas do meu Daedalus?", perguntou Tehani. "Atrás de você, no teto!", respondeu Zinhle.
