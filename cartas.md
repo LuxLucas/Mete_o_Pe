@@ -14,18 +14,6 @@
 - **Contra-tempo:** prejudica o jogador
 
 ---
-Vantagem:
-- Avance 3 casas
-
-- Você tem vantagem na rolagem de dado para movimentação até o fim de seu próximo turno
-
-- Escolha 1 entre:
-    * Role o dado, se cair 3 ou 4, avance 2 casas.
-    * Aplique o efeito de outra carta de vantagem alvo usada nessa rodada e exile-a.
-
-- Faça uma rolagem de movimentação adicional nesse turno.
-
-- Até o final da rodada, efeitos que o fazem voltar alguma casa não lhe afetam;
 
 Contratempo:
 - Retorne 3 casas
@@ -53,44 +41,45 @@ Abismo:
 Apoio:
 - Outro jogador alvo recebe vantagem em testes de desafio até o final de seu próximo turno.
 
-- Até o fim de seu próximo turno, quando você chegar ou passar numa casa com outro jogador, ele avança 1 casa.
-
-Escolha 1 entre:
+- Até o fim de seu próximo turno, quando você chegar ou passar numa casa com outro jogador, ele avança 1 casa.  
+- Escolha 1 entre:
     * Outro jogador alvo recebe +1 em teste de desafio até o final de seu próximo turno.
     * Ative o efeito de outra carta de apoio usada nessa rodada e exile-a.
-Cartas de vantagem:
-
-Nome: Impulso de Propulsão
-Efeito: Avance 3 casas.
-Descrição: Rafael ativa seu propulsor anti-newtons, e uma força intensa o empurra para frente, acelerando-o para longe da sucção.
-
-Nome: Repulsão Magnética
-Efeito: Você tem vantagem na rolagem de dado para movimentação até o fim de seu próximo turno
-Descrição: Zinhle ativa sua bota de aderência, e o atrito com o solo aumenta, proporcionando mais controle e estabilidade
-
-Nome:
-Efeito: - Escolha 1 entre:
-    * Faça um teste de desafio, se cair 3 ou 4, avance 2 casas.
-    * Aplique o efeito de outra carta de vantagem alvo usada nessa rodada e exile-a.
-Descrição:
-
-
 ---
+
+**Nome:**
+**Tipo:** Contratempo
+**Efeito:**
+**Descrição:**
 
 ## Efeitos
 
 ### Cartas de vantagem
 
-Nome: Impulso de Propulsão
-Efeito: Avance 3 casas.
-Descrição: Rafael utiliza seu Daedalus para realizar um impulso de propulsão, criando uma força contrária a de sucção do vácuo.
+**Nome:** Impulso de Propulsão  
+**Tipo:** Vantagem
+**Efeito:** Avance 3 casas.  
+**Descrição:** Rafael usa seu propulsor anti-newtons, e uma força intensa o empurra para frente, acelerando-o para longe da sucção do abismo.
 
-Nome: Repulsão Magnética
-Efeito: Você tem vantagem na rolagem de dado para movimentação até o fim de seu próximo turno
-Descrição:  o atrito com o solo e permite maior fluidez no movimento.
+**Nome:** Aderência Aumentada
+**Tipo:** Vantagem
+**Efeito:** Você tem vantagem na rolagem de dado para movimentação até o fim de seu próximo turno.
+**Descrição:** Zinhle ativa sua bota de aderência, e o atrito com o solo aumenta, proporcionando mais controle e estabilidade.
 
-Nome:
-Efeito: - Escolha 1 entre:
-    * Faça um teste de desafio, se cair 3 ou 4, avance 2 casas.
-    * Aplique o efeito de outra carta de vantagem alvo usada nessa rodada e exile-a.
-Descrição
+**Nome:** Puxar Firme
+**Tipo:** Vantagem
+**Efeito:** Escolha 1 entre:
+- Faça um teste de desafio, se cair 3 ou 4, avance 2 casas.
+- Aplique o efeito de outra carta de vantagem alvo usada nessa rodada e exile-a.
+**Descrição:** A corda tensionada dava a Erik um ponto de tração que o permitia ir contra a força de sucção, fazendo-o avançar. 
+
+**Nome:** Palmas Polarizadas
+**Tipo:** Vantagem
+**Efeito:** Faça uma rolagem de movimentação adicional nesse turno.  
+**Descrição:** As luvas magnéticas de Tehani geram um campo magnético que exerce uma força de atração nas partes metálicas da tumba.
+
+**Nome:** Túneis Secretos
+**Tipo:** Vantagem
+**Efeito:** Até o final da rodada, efeitos que o fazem voltar alguma casa não lhe afetam.
+**Descrição:** Rafael cai num pequeno e escondido túnel seguro. "Se não fosse por tudo estar a desabar, até tomaria café".
+
