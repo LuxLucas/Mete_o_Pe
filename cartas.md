@@ -15,19 +15,6 @@
 
 ---
 
-Contratempo:
-- Retorne 3 casas
-
-- Você está em sobrecarga
-
-- Você tem 5 marcadores de regresso e pode distribui-los em até 3 outros jogadores, ficando com no mínimo 1.
-
-- Escolha 1 entre:
-	* Perca o próximo turno;
-	* Outro jogador alvo perde o turno. Retorne 2 casas;
-
-- Receba +2 para rolagens de movimentação até o final do turno. Faça uma rolagem de movimentação e retorne uma quantidade de casas igual o valor resultante.
-
 Abismo:
 - Até o final da próxima rodada, rolagens pares resultam em 2 e ímpares em 1.
 
@@ -46,11 +33,6 @@ Apoio:
     * Outro jogador alvo recebe +1 em teste de desafio até o final de seu próximo turno.
     * Ative o efeito de outra carta de apoio usada nessa rodada e exile-a.
 ---
-
-**Nome:**
-**Tipo:** Contratempo
-**Efeito:**
-**Descrição:**
 
 ## Efeitos
 
@@ -82,4 +64,34 @@ Apoio:
 **Tipo:** Vantagem
 **Efeito:** Até o final da rodada, efeitos que o fazem voltar alguma casa não lhe afetam.
 **Descrição:** Rafael cai num pequeno e escondido túnel seguro. "Se não fosse por tudo estar a desabar, até tomaria café".
+
+### Cartas de contratempo
+
+**Nome:** Passo em falso
+**Tipo:** Contratempo
+**Efeito:** Retorne 3 casas.
+**Descrição:** Rrrrring. Rafael pisa inadvertidamente em uma armadilha escondida no chão, que dispara uma força elástica e o lança para trás.
+
+**Nome:** Sobrecarga
+**Tipo:** Contratempo
+**Efeito:** Você está em sobrecarga.
+**Descrição:** O traje de Zinhle diminui sua potência, recusando-se a responder a qualquer comando. "Qualé! Nem te usei tanto assim..."
+
+**Nome:** Peso Pena
+**Tipo:** Contratempo
+**Efeito:** Você tem 5 marcadores de regresso e pode distribui-los em até 3 outros jogadores, ficando com no mínimo 1.
+**Descrição:** Erik sente uma estranha leveza em seu corpo, e logo percebe o problema: com menos peso, o atrito com o chão está reduzido.
+
+**Nome:** Pulsos alternados
+**Tipo:** Contratempo
+**Efeito:**  Escolha 1 entre:
+* Perca o próximo turno;
+* Outro jogador alvo perde o turno. Retorne 2 casas.
+  
+  **Descrição:** O abismo emite pulsos oscilantes; Tehani se agarra a um pilar trêmulo, que arremessa pedaços sólidos em direção aos outros pesquisadores.
+
+**Nome:** 
+**Tipo:** Contratempo
+**Efeito:** Receba +2 para rolagens de movimentação até o final do turno. Faça uma rolagem de movimentação e retorne uma quantidade de casas igual o valor resultante.
+**Descrição:** Zinhle avança com força de propulsão, mas bate nas paredes espirais da tumba, sendo atraída pela força centrípeta gerada pela gravidade do abismo.
 
