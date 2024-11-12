@@ -19,17 +19,17 @@ Durante a exploração do local um sistema de armadilhas foi ativado e agora os 
 ## Personagens
 
 ### Rafael
-Gênero: Masculino
+Gênero: Masculino  
 Nacionalidade: Brasileiro?
 
 ### Zinhle
-Gênero: Feminino
+Gênero: Feminino  
 Nacionalidade: Sul africana?
 
 ### Erik
-Gênero: Masculino
+Gênero: Masculino  
 Nacionalidade: Dinamarquês?
 
 ### Tehani
-Gênero: Feminino
+Gênero: Feminino  
 Nacionalidade: Polinésia?
