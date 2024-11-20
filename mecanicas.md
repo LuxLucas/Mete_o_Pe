@@ -14,7 +14,7 @@
 Se refere ao resultado obtido pela rolagem do dado somado a um acréscimo ou decréscimo.
 
 ## Marcador de regresso:
-Um jogador com um ou mais marcadores de regresso, no final de seu turno, perde sua quantidade marcadores de regresso voltando a mesma quantidade de casas.
+Um jogador com um ou mais marcadores de regresso, no final da rodada, perde sua quantidade marcadores de regresso voltando a mesma quantidade de casas.
 
 ## Sobrecarga:
 - Quando o exoesqueleto de um jogador sobrecarregar, deve fazer um teste de desafio no começo de seu turno, se o valor resultante for igual a:
